@@ -67,12 +67,12 @@ When you run the project, the views should be found by Spring Boot and you shoul
 - receive data from controller and show with frontend.
 
 ## Endpoints
-- http://localhost:8080/
-- http://localhost:8080/register
-- http://localhost:8080/admin/products
-- http://localhost:8080/admin/customers
-- http://localhost:8080/admin/categories
-- http://localhost:8080/admin/Dashboard
+- http://192.168.20.138:8080/
+- http://192.168.20.138:8080/register
+- http://192.168.20.138:8080/admin/products
+- http://192.168.20.138:8080/admin/customers
+- http://192.168.20.138:8080/admin/categories
+- http://192.168.20.138:8080/admin/Dashboard
 
 
 ## Spring Boot
